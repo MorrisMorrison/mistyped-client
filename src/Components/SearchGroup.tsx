@@ -4,7 +4,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css'
 import { type } from 'os';
 
-const baseUrl = "http://mistyped-server.mormor.online";
+const baseUrl = "https://mistyped-server.mormor.online";
 type SearchGroupProperties = {
 }
 
